@@ -1,0 +1,51 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  width: 60%;
+  background-color: #064e3b;
+  margin: auto;
+  color: white;
+  padding: 2rem;
+}
+
+.labels {
+  display: block;
+  color: #a7f3d0;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+.buttons {
+  margin: auto;
+  border: none;
+  background-color: #a7f3d0;
+  color: #064e3b;
+  padding: 8px 16px;
+  margin-top: 1.5rem;
+}
+
+table,
+td {
+  border: 1px solid #064e3b;
+  border-collapse: collapse;
+}
+table {
+  margin: auto;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+td {
+  padding: 01rem;
+  background-color: #a7f3d0;
+  color: #064e3b;
+}
+.input {
+  size: ;
+}
+
+.lessbill {
+  margin-top: 2rem;
+  font-size: 1.2rem;
+}
